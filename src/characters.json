@@ -1,0 +1,94 @@
+[
+    {
+      "id": 0,
+      "image": "/images/bailey.jpg"
+    },
+   
+    {
+      "id": 1,
+      "image": "/images/briggs.jpg"
+    },
+
+    {
+        "id": 2,
+        "image": "/images/megan.jpg"
+      },
+
+      {
+        "id": 3,
+        "image": "/images/whitaker.jpg"
+      },
+
+      {
+        "id": 4,
+        "image": "/images/miles.jpg"
+      },
+
+      {
+        "id": 5,
+        "image": "/images/luisa.jpg"
+      },
+
+      {
+        "id": 6,
+        "image": "/images/nate.jpg"
+      },
+
+      {
+        "id": 7,
+        "image": "/images/izzie.jpg"
+      },
+
+      {
+        "id": 8,
+        "image": "/images/evan.jpg"
+      },
+
+      {
+        "id": 9,
+        "image": "/images/zahid.jpg"
+      },
+
+      {
+        "id": 10,
+        "image": "/images/nick.jpg"
+      },
+
+      {
+        "id": 17,
+        "image": "/images/sam.jpg"
+      },
+
+      {
+        "id": 11,
+        "image": "/images/sharice.jpg"
+      },
+
+      {
+        "id": 12,
+        "image": "/images/casey.jpg"
+      },
+
+      {
+        "id": 13,
+        "image": "/images/doug.jpg"
+      },
+
+      {
+        "id": 14,
+        "image": "/images/elsa.jpg"
+      },
+
+      {
+        "id": 15,
+        "image": "/images/paige.jpg"
+      },
+
+      {
+        "id": 16,
+        "image": "/images/julie.jpg"
+      }
+
+]
+
+   

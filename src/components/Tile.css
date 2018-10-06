@@ -1,0 +1,28 @@
+.tile {
+    width: 200px;
+    height: 300px;
+    Margin: 1rem;
+    position: relative;
+    box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+}
+
+.tile img {
+    max-height: 100%;
+    max-width: 100%;
+}
+
+.tile:hover:active {
+    box-shadow: 0 5px 9px rgb(103, 4, 116), 0 5px 9px rgb(103, 4, 116);
+
+}
+
+.tile:hover {
+    -webkit-transform:scale(1.05);
+    -ms-transform:scale(1.05);
+    transform:scale(1.05);
+    -webkit-box-shadow:0 14px 28px rgba(0,0,0,.25),0 10px 10px rgba(0,0,0,.22);
+    box-shadow:0 14px 28px rgba(0,0,0,.25),0 10px 10px rgba(0,0,0,.22);
+    -webkit-transition:.1s;
+    -o-transition:.1s;
+    transition:.1s
+}
