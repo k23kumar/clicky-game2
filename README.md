@@ -1,1 +1,1 @@
-# clicky-game2
+This app uses react to breakdown the UI into components, manage component state and respnd to user events. 
